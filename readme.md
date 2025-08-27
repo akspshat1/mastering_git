@@ -1,2 +1,2 @@
-## hello git
-i am adding from akshatwork branch
+## hello all how are you
+i am adding from dev-jsmbranch
